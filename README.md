@@ -20,14 +20,23 @@ Repository Structure
 
 talent-funnel-bottleneck-analytics/
 ├── data/
+
 │   ├── raw_hiring_tracker.csv                  # Raw candidate outreach and status logs
+
 │   ├── clean_hiring_tracker.csv                # Deduplicated and standardized hiring dataset
+
 │   └── enriched_hiring_tracker.csv             # Analysis-ready dataset with funnel, rejection & SLA features
+
 ├── notebooks/
+
 │   ├── 01_data_generation_and_cleaning.ipynb   # Data ingestion, phone normalization, deduplication & validation
+
 │   └── 02_eda_and_bottleneck_analysis.ipynb    # Feature engineering, SLA impact analysis & visual EDA
+
 ├── dashboard/
+
 │   └── talent_funnel_dashboard.pbix            # Interactive Power BI executive dashboard
+
 └── README.md
 
 
