@@ -1,7 +1,10 @@
-Talent Funnel Bottleneck Analytics — WhiteCollar Realty
+# Talent Funnel Bottleneck Analytics — WhiteCollar Realty
 
 An end-to-end recruitment analytics and executive visualization project built to diagnose hiring pipeline drop-offs, measure recruiter call-delay SLAs, and evaluate sourcing channel ROI across multi-market real estate roles (Gurgaon, Noida, and Dubai).
 
+> **Data Privacy & Confidentiality Note:** Due to data privacy policies and candidate confidentiality (PII protection), actual proprietary candidate records have not been uploaded to this repository. The datasets included in the `data/` directory are anonymized/synthetically modeled to mirror real-world recruitment distributions, conversion patterns, and operational bottlenecks.
+
+ 
 Business Problem & Objectives
 
 High-volume recruitment pipelines often suffer from hidden conversion bottlenecks—such as delayed candidate outreach, high Face-to-Face (F2F) interview no-shows, and mismatched candidate profiles. Without stage-level visibility, Talent Acquisition teams struggle to pinpoint whether pipeline leakage stems from sourcing quality, role/location mismatches, or slow recruiter follow-ups.
